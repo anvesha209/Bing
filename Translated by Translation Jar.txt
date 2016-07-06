@@ -1,0 +1,4 @@
+Bonjour
+Godmorgen
+Good morning
+TranslateApiException: Cannot find an active Azure Market Place Translator Subscription associated with the request credentials. : ID=1146.V2_Json.Translate.292DA74F
